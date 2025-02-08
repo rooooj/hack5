@@ -22,7 +22,7 @@ export default function PricingFAQs() {
           ))}
         </div>
   
-        <p className="mt-6 text-gray-500">Haven't got your answer? Contact our support</p>
+        <p className="mt-6 text-gray-500">Havent got your answer? Contact our support</p>
   
         {/* Free Trial Section */}
         <div className="bg-blue-50 py-10 mt-10 rounded-lg">
